@@ -1,1 +1,1 @@
-This first ruby project for anime blogs
+This first ruby project for anime blogs.
